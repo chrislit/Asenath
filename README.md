@@ -1,4 +1,4 @@
 Asenath
 =======
 
-an old ISAPI Extension front end to The SWORD Project
+an ISAPI Extension interface to The SWORD Project
